@@ -100,18 +100,19 @@ glucovision/
 
 ## Screenshots
 
-1. **Home Page**:
-   
-2. **Data Explorer**:
-   
+ **Data Explorer**:
+   <img width="1918" height="950" alt="Screenshot 2025-08-13 040934" src="https://github.com/user-attachments/assets/ab81be44-66c0-4a56-91c2-26395dbaa120" />
 
-3. **Visualizations**:
-   
 
-4. **Model Dashboard**:
-  
+ **Visualizations**:
+   <img width="1915" height="947" alt="Screenshot 2025-08-13 041021" src="https://github.com/user-attachments/assets/91cf54ee-c20d-4274-a460-9ea6e2eb4d16" />
 
-5. **Prediction Page**:
+
+ **Model Dashboard**:
+  <img width="1916" height="946" alt="Screenshot 2025-08-13 041039" src="https://github.com/user-attachments/assets/77645b58-8e6c-460c-b203-82e16d5737eb" />
+
+**Prediction Page**:
+<img width="1918" height="943" alt="Screenshot 2025-08-13 041058" src="https://github.com/user-attachments/assets/e5961842-9784-470e-9efd-f4a1fda7beb2" />
 
 
 ## License
@@ -122,3 +123,4 @@ MIT License. See [LICENSE](LICENSE) for details.
                                                                Developed by Sandun Indrasiri Wijesingha  
                                                                      Email: ssandu809@gmail.com  
                                                                      © All Rights Reserved
+
