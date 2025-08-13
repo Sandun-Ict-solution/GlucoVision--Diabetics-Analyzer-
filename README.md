@@ -31,7 +31,7 @@ The backend handles data preprocessing, model training/selection, and evaluation
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/glucovision.git
+   git clone https://github.com/Sandun-Ict-solution/GlucoVision--Diabetics-Analyzer-.git
    cd glucovision
    ```
 
@@ -123,4 +123,5 @@ MIT License. See [LICENSE](LICENSE) for details.
                                                                Developed by Sandun Indrasiri Wijesingha  
                                                                      Email: ssandu809@gmail.com  
                                                                      © All Rights Reserved
+
 
